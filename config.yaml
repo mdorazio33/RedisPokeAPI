@@ -1,0 +1,6 @@
+redis:
+  host: redis-14244.c282.east-us-mz.azure.cloud.redislabs.com
+  db: 0
+  user: default
+  password: T61wHpaxjdqkJ2Qsj5UcHKU7Lb9IVzSy
+  port: 14244
